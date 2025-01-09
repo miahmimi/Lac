@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="fr">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <title>À propos du Lac Daumesnil</title>
+    <meta name="description" content="Découvrez l'histoire et les caractéristiques uniques du Lac Daumesnil, joyau du Bois de Vincennes.">
+    <meta name="keywords" content="Lac Daumesnil, Histoire, Nature, Bois de Vincennes, Écosystème">
+    <meta name="Author" content="Yousra">
+    <style type="text/css" media="all">
+      @import url("css/chatillon.css");
+      .style1 {
+        color: #C0985D;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="layout" style="margin-top: 190px; box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.7);">
+      <table style="width: 1100px; height: 400px;" border="1">
+        <tbody>
+          <tr>
+            <td style="box-shadow: 100px 0px 120px 100px white inset; background-color: #8d9298; background-repeat: no-repeat; background-size: cover; background-image: url('img/Fichier_000.png');">
+              <h1 style="color: #000066; font-size: 70px; margin-left: 60px; font-family: 'Times New Roman'; font-weight: bold;">À
+                propos du Lac Daumesnil</h1>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <nav>
+        <ul>
+          <li><a href="index.html" style="color: white;">Accueil</a></li>
+          <li><a href="a-propos.html" style="color: white;">À propos</a></li>
+          <li><a href="activites.html" style="color: white;">Activités</a></li>
+          <li><a href="contact.html" style="color: white;">Contact</a></li>
+        </ul>
+      </nav>
+      <div id="columnwrapper" style="background-color: white;">
+        <div id="mainbox">
+          <div id="maincontent" style="background-color: white ; font-size: 23px; line-height: 1.5em; text-align: justify; margin: 20px;">
+            <h2 style="color: #000066;">Un lieu chargé d’histoire</h2>
+            <p> Le Lac Daumesnil, joyau enchanteur du Bois de Vincennes, est
+              bien plus qu’un simple plan d’eau. Créé au XIXe siècle sous le
+              règne de Napoléon III, il reflète une harmonie parfaite entre
+              nature et patrimoine. Ce lieu offre un cadre idéal pour se
+              ressourcer et découvrir les multiples facettes de la nature en
+              milieu urbain. </p>
+            <h2 style="color: #000066;">Un écosystème unique</h2>
+            <p> Abritant une diversité remarquable de faune et de flore, le lac
+              est une véritable oasis de biodiversité. Les visiteurs peuvent y
+              observer des cygnes majestueux, des canards et bien d’autres
+              espèces dans leur habitat naturel. </p>
+            <h2 style="color: #000066;">Un lieu pour tous</h2>
+            <p> Que vous soyez amateur de balades paisibles, de pique-niques en
+              famille ou simplement à la recherche d’un coin tranquille pour
+              méditer, le Lac Daumesnil a quelque chose à offrir à chacun. </p>
+          </div>
+        </div>
+      </div>
+      <div id="footerbox">
+        <div id="footer" style="color: white; text-align: center;">
+          <p>© 2024 - Réalisation par Yousra</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
